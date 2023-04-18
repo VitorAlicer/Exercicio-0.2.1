@@ -1,0 +1,19 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 0 auto;
+    width: 500px;
+}
+ul li{
+    display: inline;
+    margin: 0;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
